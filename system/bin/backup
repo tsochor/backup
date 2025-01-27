@@ -2,7 +2,7 @@
 # Written by Draco (tytydraco @ GitHub)
 
 # Where to backup by default
-BACKUP_PATH="/sdcard/backup"
+BACKUP_PATH="/mnt/media_rw/4A21-0000"
 
 # Log in red and exit
 err() {
